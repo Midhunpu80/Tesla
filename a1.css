@@ -1,0 +1,347 @@
+
+.cont4{
+position: relative;
+left: 350px;
+
+
+}
+
+
+.cont3{
+   position: relative;
+   left: 200px;
+}
+
+
+.cont2{
+    background-color: rgba(0, 0, 0, 0);
+    align-items: center;
+    border: rgba(0, 0, 0, 0);
+    font-size: 18px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ margin: 10px;
+ 
+
+}
+.cont2:hover{
+    background-color: gray;
+}
+
+
+.cont1{
+    height: 100px;
+    width: 200px;
+    background-color: green;
+}
+
+
+
+
+.d1{
+    background-color:rgb(252, 244, 244);
+    height: 1000%;
+    width: 1500px;
+    background-color: transparent;
+    
+
+
+
+  
+
+}
+#d2{
+    background-color:rgb(229, 26, 26);
+    height: 1000px;
+    width: 1500px;
+    background-image:url("https://tesla-cdn.thron.com/delivery/public/image/tesla/8e2df1b9-a4bf-4eb9-beec-2cf5cc77fca0/bvlatuR/std/2880x2400/Desktop-ModelY?quality=70") ;
+   background-size: cover;
+   animation: forwards;
+   animation-duration: 4s;
+}
+#d3{
+    background-color:rgb(229, 26, 26);
+    height: 1000px;
+    width: 1500px;
+    background-image:url("https://tesla-cdn.thron.com/delivery/public/image/tesla/03e533bf-8b1d-463f-9813-9a597aafb280/bvlatuR/std/4096x2560/M3-Homepage-Desktop-LHD") ;
+   background-size: cover;
+    
+}
+#d4{
+    background-color:rgb(229, 26, 26);
+    height: 1000px;
+    width: 1500px;
+    background-image:url("https://tesla-cdn.thron.com/delivery/public/image/tesla/17ecbd59-0e37-4add-8aca-f905d12c02e4/bvlatuR/std/2880x1800/Homepage-Model-X-Desktop-LHD?quality=auto-medium&amp;format=auto") ;
+   background-size: cover;
+}
+#d5{
+    background-color:rgb(229, 26, 26);
+    height: 1000px;
+    width: 1500px;
+    background-image:url("https://tesla-cdn.thron.com/delivery/public/image/tesla/16b04537-a4be-4bf9-8637-86862a858da8/bvlatuR/std/2880x1800/_25-HP-SolarPanels-D") ;
+   background-size: cover;
+    
+}
+#d6{
+    background-color:rgb(229, 26, 26);
+    height: 1000px;
+    width: 1500px;
+    background-image:url("https://tesla-cdn.thron.com/delivery/public/image/tesla/4a41ec0e-7316-46a8-8ce9-e2f195ba644d/bvlatuR/std/2880x1800/Homepage-SolarRoof-Desktop-Global?quality=auto-medium&format=auto") ;
+   background-size: cover;
+    
+}
+#d7{
+    background-color:rgb(229, 26, 26);
+    height: 1000px;
+    width: 1500px;
+    background-image:url("https://tesla-cdn.thron.com/delivery/public/image/tesla/dd739764-bcaa-4263-9488-8c73bc9fb046/bvlatuR/std/0x0/dd739764-bcaa-4263-9488-8c73bc9fb046") ;
+   background-size: cover;
+    
+}
+.d11{
+width: 100%;
+height: 100px;
+display:inline;
+position: fixed;
+font-family: sans-serif;
+font-weight: 200;
+font-size: x-large;
+
+;
+color: green;
+
+
+
+
+
+
+color: rgb(0, 0, 17);
+font-size: 20px;
+
+
+
+}
+#b1{
+color: transparent;
+}
+li
+{
+    outline: none;
+    display: inline;
+
+    position: sticky;
+    background-color: transparent;
+}
+
+
+
+
+#gk{
+
+    height: 40px;
+    background-color: rgba(11, 4, 4, 0.648);
+    color: rgba(255, 255, 255, 0.615);
+    width: 280px;
+    font-size: medium;
+    position: absolute;
+    left: 450px;
+    top: 850px;
+    border-radius: 5px;
+    opacity: initial;
+    opacity: 100px;
+
+    
+}
+#vk{
+
+
+    height: 40px;
+    background-color: rgba(255, 253, 253, 0.445);
+    color: rgba(0, 0, 0, 0.718);
+    width: 280px;
+    font-size: medium;
+    position: absolute;
+    left: 800px;
+    top: 850px;
+    border-radius: 5px;
+    opacity: initial;
+    
+
+
+
+
+
+
+
+
+
+
+}
+.cont55:hover{
+background-color: rgb(66, 58, 58);
+}
+.cont56{
+margin-left: 500px;
+position:relative;
+  top: 600px;
+}
+.cont70{
+   margin-left: 500px;
+   position:relative;
+     top: 700px;
+   
+
+
+}
+.ulstyle{
+    position: absolute;
+left: 400px;
+top: 5950px;
+opacity: 100px;
+border: none;
+background: transparent;
+    
+}
+.content{
+    height: 200px;
+    width: 200px;
+    
+font-weight: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  position: absolute;
+  left: 650px;
+  top: 350px;
+}
+.content1{
+    height: 1000px;
+    width: 200px;
+    
+font-weight: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  position: absolute;
+  left: 650px;
+  top: 250px;
+}
+#content2{
+    position: absolute;
+    left: 650px;
+    top: 5850px;
+    width: 250px;
+    height: 40px;
+    background-color: black;
+    color: white;
+}
+#content3{
+    position: absolute;
+    left: 680px;
+    top: 5350px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.content5{
+position: absolute;
+left: 600px;
+top: 4200px;
+font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: large;
+font-weight: 200px;
+}
+#tk{
+
+    position: absolute;
+    left: 400px;
+    top: 1700px;
+    width: 250px;
+    height: 40px;
+    background-color: rgba(8, 0, 0, 0.47);
+    color: rgb(251, 246, 246);
+}
+#lk{
+    position: absolute;
+    left: 700px;
+    top: 1700px;
+    width: 300px;
+    height: 40px;
+    background-color: rgba(238, 235, 235, 0.568);
+    color: rgb(9, 1, 1);
+}
+.content6{
+   position: absolute;
+   top: 1100px;
+   left: 700px;
+}
+.content7{
+    position: absolute;
+    top: 1150px;
+    left: 690px;
+ }
+ body{
+    margin: 0;
+ }
+ #lk:hover{
+  background: rgb(131, 127, 127);
+
+color: white;
+ }
+ #tk:hover{
+    background: rgb(131, 127, 127);
+    color: rgb(0, 0, 0);
+    
+ }
+ #gk:hover{
+    background-color: grey;
+ }
+ #vk:hover{
+    background-color: grey;
+ }
+ #content2:hover{
+    background-color: white;
+    color: black;
+ }
+ #shedule:hover{
+    background-color: cadetblue;
+    color: gray;
+ }
+ .dd4,.dd5{
+
+background-color: rgba(127, 120, 120, 0.834);
+color: white;
+height: 40px;
+width: 250px;
+border-radius: 5px;
+align-items: center;
+position: relative;
+top: 650px;
+left: 500px;
+margin-left: 20px;
+
+
+ }
+ .dd3{
+    position: absolute;
+    left: 500px;
+ }
+ .dd5{
+    background-color: rgba(255, 255, 255, 0.637);
+    color: black;
+ }
+ .dd4:hover,.dd5:hover{
+    background-color: rgb(211, 178, 178);
+ }
+ .dd4{
+    background-color: rgba(63, 57, 57, 0.801);
+    color: rgb(255, 255, 255);
+ }
+ .dd41{
+    position: absolute;
+    left: 700px;
+    top: 2150px;
+
+ }
+ .dd42{
+    color: black;
+    position: absolute;
+    left: 690px;
+    top: 2240px;
+ }
+ .dd42:hover{
+    color: white;
+ }
